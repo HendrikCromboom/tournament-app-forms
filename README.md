@@ -32,10 +32,13 @@
 ---
 
 ### Roadmap
+[] Planning
+    
+    [X] Data Structure
 
-[] Data Structure
-[] Data Handling
-[] Form Logic
+    [X] User Interface (on paper)
+
+    [] Logic Planning
 
 ### Credits
 
